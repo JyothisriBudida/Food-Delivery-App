@@ -1,0 +1,54 @@
+# Dependencies
+**/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/build
+frontend/build/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Local logs
+*.log
+frontend_start.log
+
+# Firebase service account key (backend) - NEVER commit this
+serviceAccountKey.json
+**/serviceAccountKey.json
+**/*firebase-adminsdk*.json
+**/*-firebase-adminsdk-*.json
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+npm-*.log*
+
+# Python backend
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+backend/venv/
+backend/env/
+backend/.venv/
+*.egg-info/
+.installed.cfg
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store

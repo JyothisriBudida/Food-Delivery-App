@@ -1,0 +1,21 @@
+.map-container {
+  height: 100%;
+  width: 100%;
+  border-radius: 8px;
+}
+
+.popup-content {
+  font-family: inherit;
+}
+
+.popup-content h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1rem;
+  color: #2c3e50;
+}
+
+.popup-content p {
+  margin: 0.25rem 0;
+  font-size: 0.85rem;
+  color: #666;
+}

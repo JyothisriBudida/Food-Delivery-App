@@ -1,0 +1,383 @@
+
+> food-delivery-app@1.0.0 start
+> react-scripts start
+
+Starting the development server...
+
+Compiled successfully!
+
+You can now view food-delivery-app in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.29.215:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled [1m[32msuccessfully[39m[22m
+Compiling...
+Compiled successfully!
+webpack compiled [1m[32msuccessfully[39m[22m
+Compiling...
+Compiled successfully!
+webpack compiled [1m[32msuccessfully[39m[22m
+Compiling...
+Compiled successfully!
+webpack compiled [1m[32msuccessfully[39m[22m
+Failed to compile.
+
+Module not found: Error: Can't resolve '@firebase/app' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'
+[1mLOG from webpack.FileSystemInfo[39m[22m
+<w> [1m[33mManaged item C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)[39m[22m
+<w> [1m[33mManaged item C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\app isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)[39m[22m
+<w> [1m[33mManaged item C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\component isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)[39m[22m
+<w> [1m[33mManaged item C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\logger isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)[39m[22m
++ 14 hidden lines
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/common-fe7037b3.esm.js[39m[22m [1m[32m1:0-99[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/app' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/common-fe7037b3.esm.js[39m[22m [1m[32m4:0-52[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/logger' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm.js[39m[22m [1m[32m1:0-81[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/app' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm.js[39m[22m [1m[32m2:0-48[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm.js[39m[22m [1m[32m7:0-26[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/logger' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+webpack compiled with [1m[31m5 errors[39m[22m
+Failed to compile.
+
+Module not found: Error: Can't resolve '@firebase/app' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'
+[1mLOG from webpack.FileSystemInfo[39m[22m
+<w> [1m[33mManaged item C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\app isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)[39m[22m
+<w> [1m[33mManaged item C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)[39m[22m
+<w> [1m[33mManaged item C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\webchannel-wrapper isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)[39m[22m
++ 14 hidden lines
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/common-fe7037b3.esm.js[39m[22m [1m[32m1:0-99[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/app' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/common-fe7037b3.esm.js[39m[22m [1m[32m4:0-52[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/logger' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm.js[39m[22m [1m[32m1:0-81[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/app' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm.js[39m[22m [1m[32m2:0-48[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm.js[39m[22m [1m[32m7:0-26[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/logger' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+webpack compiled with [1m[31m5 errors[39m[22m
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '@firebase/app' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/common-fe7037b3.esm.js[39m[22m [1m[32m1:0-99[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/app' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/common-fe7037b3.esm.js[39m[22m [1m[32m4:0-52[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/logger' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm.js[39m[22m [1m[32m1:0-81[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/app' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm.js[39m[22m [1m[32m2:0-48[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm.js[39m[22m [1m[32m7:0-26[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/logger' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+webpack compiled with [1m[31m5 errors[39m[22m
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '@firebase/app' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/common-fe7037b3.esm.js[39m[22m [1m[32m1:0-99[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/app' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/common-fe7037b3.esm.js[39m[22m [1m[32m4:0-52[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/logger' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm.js[39m[22m [1m[32m1:0-81[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/app' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm.js[39m[22m [1m[32m2:0-48[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm.js[39m[22m [1m[32m7:0-26[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/logger' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/util/dist/index.esm.js[39m[22m
+[1mModule build [1m[31mfailed[39m[22m[1m (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\util\dist\index.esm.js'[39m[22m
+
+webpack compiled with [1m[31m6 errors[39m[22m
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '@firebase/app' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'
+[1mLOG from webpack.FileSystemInfo[39m[22m
+<w> [1m[33mManaged item C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)[39m[22m
++ 13 hidden lines
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/common-fe7037b3.esm.js[39m[22m [1m[32m1:0-99[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/app' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm.js[39m[22m [1m[32m1:0-81[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/app' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm.js[39m[22m [1m[32m2:0-48[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/util/dist/index.esm.js[39m[22m
+[1mModule build [1m[31mfailed[39m[22m[1m (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\util\dist\index.esm.js'[39m[22m
+
+webpack compiled with [1m[31m4 errors[39m[22m
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '@firebase/app' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/common-fe7037b3.esm.js[39m[22m [1m[32m1:0-99[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/app' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm.js[39m[22m [1m[32m1:0-81[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/app' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm.js[39m[22m [1m[32m2:0-48[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/util/dist/index.esm.js[39m[22m
+[1mModule build [1m[31mfailed[39m[22m[1m (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\util\dist\index.esm.js'[39m[22m
+
+webpack compiled with [1m[31m4 errors[39m[22m
+Compiling...
+Failed to compile.
+
+Attempted import error: '_isFirebaseServerApp' is not exported from '@firebase/app' (imported as '_isFirebaseServerApp').
+[1mLOG from webpack.FileSystemInfo[39m[22m
+<w> [1m[33mManaged item C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)[39m[22m
+<w> [1m[33mManaged item C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\component isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)[39m[22m
++ 15 hidden lines
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/common-fe7037b3.esm.js[39m[22m [1m[32m597:92-112[39m[22m
+[1mexport '_isFirebaseServerApp' (imported as '_isFirebaseServerApp') was [1m[31mnot found[39m[22m[1m in '@firebase/app' (possible exports: [1m[32mFirebaseError, SDK_VERSION, _DEFAULT_ENTRY_NAME, _addComponent, _addOrOverwriteComponent, _apps, _clearComponents, _components, _getProvider, _registerComponent, _removeServiceInstance, deleteApp, getApp, getApps, initializeApp, onLog, registerVersion, setLogLevel[39m[22m[1m)[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm.js[39m[22m [1m[32m2:0-48[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/util/dist/index.esm.js[39m[22m
+[1mModule build [1m[31mfailed[39m[22m[1m (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\util\dist\index.esm.js'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/app/dist/esm/index.esm2017.js[39m[22m [1m[32m1:0-68[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\app\dist\esm'[39m[22m
+
+webpack compiled with [1m[31m4 errors[39m[22m
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'
+[1mLOG from webpack.FileSystemInfo[39m[22m
+<w> [1m[33mManaged item C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\component isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)[39m[22m
+<w> [1m[33mManaged item C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\webchannel-wrapper isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)[39m[22m
++ 15 hidden lines
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/firebase/firestore/dist/esm/index.esm.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm2017.js[39m[22m [1m[32m2:0-48[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm2017.js[39m[22m [1m[32m5:0-182[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/webchannel-wrapper' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/app/dist/esm/index.esm2017.js[39m[22m [1m[32m1:0-68[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\app\dist\esm'[39m[22m
+
+webpack compiled with [1m[31m3 errors[39m[22m and [1m[33m1 warning[39m[22m
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'
+[1m[33mWARNING[39m[22m in [1m./node_modules/firebase/firestore/dist/esm/index.esm.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm2017.js[39m[22m [1m[32m2:0-48[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm2017.js[39m[22m [1m[32m5:0-182[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/webchannel-wrapper' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/app/dist/esm/index.esm2017.js[39m[22m [1m[32m1:0-68[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\app\dist\esm'[39m[22m
+
+webpack compiled with [1m[31m3 errors[39m[22m and [1m[33m1 warning[39m[22m
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'
+[1m[33mWARNING[39m[22m in [1m./node_modules/firebase/firestore/dist/esm/index.esm.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm2017.js[39m[22m [1m[32m2:0-48[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm2017.js[39m[22m [1m[32m5:0-182[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/webchannel-wrapper' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/app/dist/esm/index.esm2017.js[39m[22m [1m[32m1:0-68[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\app\dist\esm'[39m[22m
+
+webpack compiled with [1m[31m3 errors[39m[22m and [1m[33m1 warning[39m[22m
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'
+[1mLOG from webpack.FileSystemInfo[39m[22m
+<w> [1m[33mManaged item C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\component isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)[39m[22m
+<w> [1m[33mManaged item C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\webchannel-wrapper isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)[39m[22m
++ 13 hidden lines
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/firebase/firestore/dist/esm/index.esm.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm2017.js[39m[22m [1m[32m2:0-48[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/firestore/dist/index.esm2017.js[39m[22m [1m[32m5:0-182[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/webchannel-wrapper' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\firestore\dist'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./node_modules/@firebase/app/dist/esm/index.esm2017.js[39m[22m [1m[32m1:0-68[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '@firebase/component' in 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\@firebase\app\dist\esm'[39m[22m
+
+webpack compiled with [1m[31m3 errors[39m[22m and [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/firebase/firestore/dist/esm/index.esm.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/firebase/firestore/dist/esm/index.esm.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/firebase/firestore/dist/esm/index.esm.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/firebase/firestore/dist/esm/index.esm.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/firebase/firestore/dist/esm/index.esm.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/firebase/firestore/dist/esm/index.esm.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/firebase/firestore/dist/esm/index.esm.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/firebase/firestore/dist/esm/index.esm.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/firebase/firestore/dist/esm/index.esm.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\Jyothisri\Documents\WORK_WORK\PROJECTS\OWN PROJECTS\Food Delivery App\node_modules\firebase\firestore\dist\esm\index.esm.js.map'[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
